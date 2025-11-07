@@ -11,6 +11,9 @@ on:
     paths:
       - 'binance_usdc_prices.py'
 
+permissions:
+  contents: write
+
 jobs:
   fetch-prices:
     runs-on: ubuntu-latest
