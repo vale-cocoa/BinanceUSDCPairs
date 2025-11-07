@@ -1,0 +1,23 @@
+Fetching all USDC pair prices...
+==================================================
+Error fetching all prices: 451 Client Error:  for url: https://api.binance.com/api/v3/ticker/price
+
+Total: 0 pairs
+
+==================================================
+DETAILED 24H STATISTICS FOR MAJOR PAIRS
+==================================================
+Fetching detailed statistics for BTCUSDC...
+==================================================
+Error fetching 24h ticker for BTCUSDC: 451 Client Error:  for url: https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDC
+BTCUSDC: Error fetching data
+
+Fetching detailed statistics for ETHUSDC...
+==================================================
+Error fetching 24h ticker for ETHUSDC: 451 Client Error:  for url: https://api.binance.com/api/v3/ticker/24hr?symbol=ETHUSDC
+ETHUSDC: Error fetching data
+
+Fetching detailed statistics for BNBUSDC...
+==================================================
+Error fetching 24h ticker for BNBUSDC: 451 Client Error:  for url: https://api.binance.com/api/v3/ticker/24hr?symbol=BNBUSDC
+BNBUSDC: Error fetching data
