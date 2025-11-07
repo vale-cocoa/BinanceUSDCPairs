@@ -1,6 +1,6 @@
 # Binance USDC Prices
 
-**Last Updated:** 2025-11-07T16:05:16.870836Z
+**Last Updated:** 2025-11-07T16:09:43.239774Z
 
 ## Major Pairs (24h Stats)
 
