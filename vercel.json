@@ -1,28 +1,7 @@
 {
-  "version": 2,
-  "public": true,
-  "github": {
-    "silent": true
-  },
-  "buildCommand": "echo 'No build needed'",
-  "outputDirectory": ".",
-  "installCommand": "echo 'No install needed'",
-  "routes": [
-    {
-      "src": "/prices_data_coingecko.json",
-      "dest": "/prices_data_coingecko.json",
-      "headers": {
-        "Cache-Control": "public, max-age=0, must-revalidate",
-        "Access-Control-Allow-Origin": "*"
-      }
-    },
-    {
-      "src": "/PRICE_SUMMARY_COINGECKO.md",
-      "dest": "/PRICE_SUMMARY_COINGECKO.md",
-      "headers": {
-        "Cache-Control": "public, max-age=0, must-revalidate",
-        "Access-Control-Allow-Origin": "*"
-      }
-    }
-  ]
+“version”: 2,
+“public”: true,
+“github”: {
+“silent”: true
+}
 }
