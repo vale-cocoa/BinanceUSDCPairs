@@ -4,6 +4,9 @@
 “github”: {
 “silent”: true
 },
+“buildCommand”: “”,
+“outputDirectory”: “.”,
+“installCommand”: “”,
 “routes”: [
 {
 “src”: “/prices_data_coingecko.json”,
