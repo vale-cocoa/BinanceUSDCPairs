@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2025-11-17T14:15:57.550421Z
+**Last Updated:** 2025-11-17T14:43:41.448653Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
-- **Price:** $0.47
-- **24h Change:** -3.49%
-- **24h Volume:** $1,291,732,170
+- **Price:** $0.49
+- **24h Change:** -0.54%
+- **24h Volume:** $1,383,395,610
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $15.16
-- **24h Change:** -0.73%
-- **24h Volume:** $548,258,319
+- **Price:** $15.61
+- **24h Change:** +1.28%
+- **24h Volume:** $573,808,267
 
 ### 🔴 BNB/USDC
 
-- **Price:** $904.30
-- **24h Change:** -2.89%
-- **24h Volume:** $2,541,532,305
+- **Price:** $924.42
+- **24h Change:** -1.34%
+- **24h Volume:** $2,713,782,466
 
 ### 🔴 BTC/USDC
 
-- **Price:** $93,981.00
-- **24h Change:** -1.49%
-- **24h Volume:** $81,355,758,085
+- **Price:** $95,096.00
+- **24h Change:** -0.47%
+- **24h Volume:** $84,774,936,380
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.16
-- **24h Change:** -1.53%
-- **24h Volume:** $2,079,299,363
+- **24h Change:** +0.73%
+- **24h Volume:** $2,327,629,719
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $2.75
-- **24h Change:** -1.95%
-- **24h Volume:** $242,766,029
+- **Price:** $2.83
+- **24h Change:** +0.02%
+- **24h Volume:** $258,482,702
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $3,118.49
-- **24h Change:** -1.10%
-- **24h Volume:** $34,888,985,091
+- **Price:** $3,180.20
+- **24h Change:** +0.30%
+- **24h Volume:** $36,629,978,977
 
 ### 🔴 LINK/USDC
 
-- **Price:** $13.69
-- **24h Change:** -2.35%
-- **24h Volume:** $774,930,544
+- **Price:** $14.05
+- **24h Change:** -0.63%
+- **24h Volume:** $842,785,430
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $137.21
-- **24h Change:** -1.73%
-- **24h Volume:** $5,844,875,692
+- **Price:** $141.28
+- **24h Change:** +0.57%
+- **24h Volume:** $6,131,946,356
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $2.20
-- **24h Change:** -0.71%
-- **24h Volume:** $4,451,692,298
+- **Price:** $2.28
+- **24h Change:** +2.33%
+- **24h Volume:** $5,310,291,495
 
