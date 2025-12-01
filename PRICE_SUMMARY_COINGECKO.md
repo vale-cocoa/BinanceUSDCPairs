@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2025-11-30T23:48:59.427557Z
+**Last Updated:** 2025-12-01T01:25:40.294301Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
-- **Price:** $0.42
-- **24h Change:** +0.47%
-- **24h Volume:** $548,158,805
+- **Price:** $0.39
+- **24h Change:** -5.55%
+- **24h Volume:** $690,581,560
 
 ### 🔴 AVAX/USDC
 
-- **Price:** $13.83
-- **24h Change:** -2.89%
-- **24h Volume:** $341,699,447
+- **Price:** $13.19
+- **24h Change:** -7.74%
+- **24h Volume:** $408,170,501
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $880.97
-- **24h Change:** +0.85%
-- **24h Volume:** $988,763,413
+- **Price:** $842.66
+- **24h Change:** -4.03%
+- **24h Volume:** $1,397,213,330
 
 ### 🔴 BTC/USDC
 
-- **Price:** $90,701.00
-- **24h Change:** -0.13%
-- **24h Volume:** $39,887,319,026
+- **Price:** $87,470.00
+- **24h Change:** -3.84%
+- **24h Volume:** $50,158,520,432
 
 ### 🔴 DOGE/USDC
 
-- **Price:** $0.15
-- **24h Change:** -1.04%
-- **24h Volume:** $716,425,177
+- **Price:** $0.14
+- **24h Change:** -6.11%
+- **24h Volume:** $1,056,615,234
 
 ### 🔴 DOT/USDC
 
-- **Price:** $2.23
-- **24h Change:** -1.52%
-- **24h Volume:** $81,621,231
+- **Price:** $2.09
+- **24h Change:** -7.70%
+- **24h Volume:** $130,172,729
 
-### 🟢 ETH/USDC
+### 🔴 ETH/USDC
 
-- **Price:** $3,001.22
-- **24h Change:** +0.30%
-- **24h Volume:** $11,735,763,023
+- **Price:** $2,850.32
+- **24h Change:** -5.18%
+- **24h Volume:** $16,023,639,103
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $13.07
-- **24h Change:** +0.53%
-- **24h Volume:** $323,934,500
+- **Price:** $12.34
+- **24h Change:** -5.56%
+- **24h Volume:** $478,083,043
 
 ### 🔴 SOL/USDC
 
-- **Price:** $135.20
-- **24h Change:** -0.63%
-- **24h Volume:** $3,362,638,176
+- **Price:** $128.58
+- **24h Change:** -5.60%
+- **24h Volume:** $4,464,430,919
 
 ### 🔴 XRP/USDC
 
-- **Price:** $2.17
-- **24h Change:** -1.56%
-- **24h Volume:** $1,850,064,359
+- **Price:** $2.09
+- **24h Change:** -5.51%
+- **24h Volume:** $2,666,206,305
 
