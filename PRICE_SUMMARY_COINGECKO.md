@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2025-12-17T18:28:23.877066Z
+**Last Updated:** 2025-12-17T18:55:30.922542Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
 - **Price:** $0.37
-- **24h Change:** -3.52%
-- **24h Volume:** $635,156,119
+- **24h Change:** -5.51%
+- **24h Volume:** $619,316,390
 
 ### 🔴 AVAX/USDC
 
-- **Price:** $11.97
-- **24h Change:** -1.72%
-- **24h Volume:** $390,217,457
+- **Price:** $11.83
+- **24h Change:** -4.06%
+- **24h Volume:** $386,476,301
 
 ### 🔴 BNB/USDC
 
-- **Price:** $845.31
-- **24h Change:** -2.70%
-- **24h Volume:** $2,508,511,500
+- **Price:** $839.61
+- **24h Change:** -3.72%
+- **24h Volume:** $2,518,998,448
 
 ### 🔴 BTC/USDC
 
-- **Price:** $86,511.00
-- **24h Change:** -1.11%
-- **24h Volume:** $46,854,348,419
+- **Price:** $85,885.00
+- **24h Change:** -2.20%
+- **24h Volume:** $46,802,366,337
 
 ### 🔴 DOGE/USDC
 
 - **Price:** $0.13
-- **24h Change:** -3.31%
-- **24h Volume:** $1,220,231,571
+- **24h Change:** -5.04%
+- **24h Volume:** $1,221,438,592
 
 ### 🔴 DOT/USDC
 
-- **Price:** $1.83
-- **24h Change:** -3.41%
-- **24h Volume:** $175,178,792
+- **Price:** $1.81
+- **24h Change:** -5.42%
+- **24h Volume:** $190,094,624
 
 ### 🔴 ETH/USDC
 
-- **Price:** $2,851.89
-- **24h Change:** -2.70%
-- **24h Volume:** $24,448,448,247
+- **Price:** $2,818.50
+- **24h Change:** -4.70%
+- **24h Volume:** $25,792,273,641
 
 ### 🔴 LINK/USDC
 
-- **Price:** $12.36
-- **24h Change:** -3.78%
-- **24h Volume:** $608,408,525
+- **Price:** $12.23
+- **24h Change:** -5.74%
+- **24h Volume:** $611,874,584
 
 ### 🔴 SOL/USDC
 
-- **Price:** $123.61
-- **24h Change:** -2.96%
-- **24h Volume:** $5,536,926,298
+- **Price:** $122.22
+- **24h Change:** -4.62%
+- **24h Volume:** $5,588,037,372
 
 ### 🔴 XRP/USDC
 
-- **Price:** $1.88
-- **24h Change:** -2.26%
-- **24h Volume:** $3,049,233,580
+- **Price:** $1.86
+- **24h Change:** -4.02%
+- **24h Volume:** $3,098,306,039
 
