@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2025-12-26T01:16:48.957101Z
+**Last Updated:** 2025-12-26T03:08:46.817358Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
-- **Price:** $0.34
-- **24h Change:** -3.30%
-- **24h Volume:** $538,440,282
+- **Price:** $0.35
+- **24h Change:** -1.70%
+- **24h Volume:** $618,676,609
 
 ### 🟢 AVAX/USDC
 
-- **Price:** $12.21
-- **24h Change:** +1.10%
-- **24h Volume:** $290,029,929
+- **Price:** $12.50
+- **24h Change:** +2.49%
+- **24h Volume:** $331,381,896
 
 ### 🔴 BNB/USDC
 
-- **Price:** $830.73
-- **24h Change:** -1.88%
-- **24h Volume:** $787,875,470
+- **Price:** $840.77
+- **24h Change:** -0.46%
+- **24h Volume:** $876,505,212
 
-### 🔴 BTC/USDC
+### 🟢 BTC/USDC
 
-- **Price:** $87,235.00
-- **24h Change:** -0.42%
-- **24h Volume:** $23,724,295,536
+- **Price:** $89,068.00
+- **24h Change:** +1.51%
+- **24h Volume:** $29,847,676,325
 
 ### 🔴 DOGE/USDC
 
-- **Price:** $0.12
-- **24h Change:** -3.35%
-- **24h Volume:** $740,411,995
+- **Price:** $0.13
+- **24h Change:** -2.03%
+- **24h Volume:** $927,424,213
 
 ### 🔴 DOT/USDC
 
-- **Price:** $1.68
-- **24h Change:** -3.42%
-- **24h Volume:** $119,012,914
+- **Price:** $1.74
+- **24h Change:** -0.41%
+- **24h Volume:** $140,519,547
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $2,910.82
-- **24h Change:** -1.02%
-- **24h Volume:** $12,809,504,584
+- **Price:** $2,967.41
+- **24h Change:** +0.68%
+- **24h Volume:** $16,162,805,609
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $12.13
-- **24h Change:** -0.85%
-- **24h Volume:** $248,737,669
+- **Price:** $12.38
+- **24h Change:** +0.31%
+- **24h Volume:** $300,898,702
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $120.37
-- **24h Change:** -1.46%
-- **24h Volume:** $2,643,284,161
+- **Price:** $123.32
+- **24h Change:** +0.36%
+- **24h Volume:** $3,234,985,527
 
 ### 🔴 XRP/USDC
 
-- **Price:** $1.84
-- **24h Change:** -1.20%
-- **24h Volume:** $1,572,952,275
+- **Price:** $1.87
+- **24h Change:** -0.11%
+- **24h Volume:** $1,807,555,705
 
