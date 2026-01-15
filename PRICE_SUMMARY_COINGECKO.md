@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-01-15T14:24:24.451182Z
+**Last Updated:** 2026-01-15T14:48:58.757357Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
-- **Price:** $0.41
-- **24h Change:** -2.05%
-- **24h Volume:** $711,094,754
+- **Price:** $0.40
+- **24h Change:** -3.81%
+- **24h Volume:** $722,273,209
 
 ### 🔴 AVAX/USDC
 
-- **Price:** $14.36
-- **24h Change:** -0.99%
-- **24h Volume:** $457,837,500
+- **Price:** $14.18
+- **24h Change:** -2.86%
+- **24h Volume:** $465,702,664
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $943.53
-- **24h Change:** +0.72%
-- **24h Volume:** $1,899,980,841
+- **Price:** $934.66
+- **24h Change:** -0.71%
+- **24h Volume:** $1,908,741,905
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $96,862.00
-- **24h Change:** +1.29%
-- **24h Volume:** $67,063,067,559
+- **Price:** $95,696.00
+- **24h Change:** -0.82%
+- **24h Volume:** $65,296,014,466
 
 ### 🔴 DOGE/USDC
 
 - **Price:** $0.14
-- **24h Change:** -1.38%
-- **24h Volume:** $1,681,097,111
+- **24h Change:** -3.84%
+- **24h Volume:** $1,718,331,390
 
 ### 🔴 DOT/USDC
 
-- **Price:** $2.22
-- **24h Change:** -1.57%
-- **24h Volume:** $180,436,959
+- **Price:** $2.19
+- **24h Change:** -3.06%
+- **24h Volume:** $179,159,752
 
-### 🟢 ETH/USDC
+### 🔴 ETH/USDC
 
-- **Price:** $3,371.32
-- **24h Change:** +1.66%
-- **24h Volume:** $32,200,724,449
+- **Price:** $3,328.34
+- **24h Change:** -0.26%
+- **24h Volume:** $32,305,522,777
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $14.16
-- **24h Change:** +1.11%
-- **24h Volume:** $659,175,367
+- **Price:** $14.00
+- **24h Change:** -0.85%
+- **24h Volume:** $660,902,162
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $145.37
-- **24h Change:** +0.04%
-- **24h Volume:** $6,022,632,972
+- **Price:** $143.76
+- **24h Change:** -1.86%
+- **24h Volume:** $6,005,683,625
 
 ### 🔴 XRP/USDC
 
-- **Price:** $2.13
-- **24h Change:** -0.46%
-- **24h Volume:** $3,841,446,598
+- **Price:** $2.10
+- **24h Change:** -2.27%
+- **24h Volume:** $3,877,868,737
 
