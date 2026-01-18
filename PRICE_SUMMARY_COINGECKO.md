@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-01-18T22:52:12.238516Z
+**Last Updated:** 2026-01-18T23:15:19.291644Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
-- **Price:** $0.40
-- **24h Change:** -0.04%
-- **24h Volume:** $317,323,095
+- **Price:** $0.39
+- **24h Change:** -1.35%
+- **24h Volume:** $332,280,583
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $13.74
-- **24h Change:** +0.02%
-- **24h Volume:** $182,717,505
+- **Price:** $13.59
+- **24h Change:** -1.19%
+- **24h Volume:** $184,320,197
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $950.55
-- **24h Change:** +0.38%
-- **24h Volume:** $1,148,806,812
+- **Price:** $946.70
+- **24h Change:** -0.07%
+- **24h Volume:** $1,151,037,603
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $95,413.00
-- **24h Change:** +0.34%
-- **24h Volume:** $19,339,647,499
+- **Price:** $95,049.00
+- **24h Change:** -0.12%
+- **24h Volume:** $20,244,589,245
 
 ### 🔴 DOGE/USDC
 
 - **Price:** $0.14
-- **24h Change:** -0.05%
-- **24h Volume:** $527,958,230
+- **24h Change:** -1.28%
+- **24h Volume:** $577,323,220
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
-- **Price:** $2.19
-- **24h Change:** +0.28%
-- **24h Volume:** $101,636,465
+- **Price:** $2.16
+- **24h Change:** -0.81%
+- **24h Volume:** $110,151,214
 
 ### 🟢 ETH/USDC
 
-- **Price:** $3,346.94
-- **24h Change:** +1.35%
-- **24h Volume:** $13,153,380,177
+- **Price:** $3,329.46
+- **24h Change:** +0.69%
+- **24h Volume:** $13,608,295,974
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $13.84
-- **24h Change:** +1.06%
-- **24h Volume:** $246,114,680
+- **Price:** $13.71
+- **24h Change:** -0.00%
+- **24h Volume:** $263,751,428
 
 ### 🔴 SOL/USDC
 
-- **Price:** $142.64
-- **24h Change:** -0.69%
-- **24h Volume:** $2,642,780,563
+- **Price:** $141.63
+- **24h Change:** -1.55%
+- **24h Volume:** $2,756,453,492
 
 ### 🔴 XRP/USDC
 
-- **Price:** $2.06
-- **24h Change:** -0.22%
-- **24h Volume:** $1,268,905,245
+- **Price:** $2.05
+- **24h Change:** -0.96%
+- **24h Volume:** $1,423,983,544
 
