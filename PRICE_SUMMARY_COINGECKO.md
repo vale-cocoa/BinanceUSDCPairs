@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-01-22T16:28:29.074603Z
+**Last Updated:** 2026-01-22T17:00:54.321992Z
 
 **Source:** CoinGecko API
 
 ### 🟢 ADA/USDC
 
 - **Price:** $0.36
-- **24h Change:** +0.78%
-- **24h Volume:** $586,375,348
+- **24h Change:** +3.45%
+- **24h Volume:** $571,322,924
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $12.16
-- **24h Change:** -0.54%
-- **24h Volume:** $360,643,233
+- **Price:** $12.22
+- **24h Change:** +2.26%
+- **24h Volume:** $348,109,185
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $884.57
-- **24h Change:** -0.06%
-- **24h Volume:** $1,448,671,414
+- **Price:** $884.18
+- **24h Change:** +1.62%
+- **24h Volume:** $1,580,186,252
 
-### 🔴 BTC/USDC
+### 🟢 BTC/USDC
 
-- **Price:** $89,015.00
-- **24h Change:** -0.51%
-- **24h Volume:** $51,299,328,319
+- **Price:** $88,965.00
+- **24h Change:** +1.50%
+- **24h Volume:** $49,893,607,954
 
 ### 🟢 DOGE/USDC
 
-- **Price:** $0.12
-- **24h Change:** +0.01%
-- **24h Volume:** $1,216,539,443
+- **Price:** $0.13
+- **24h Change:** +2.73%
+- **24h Volume:** $1,123,159,335
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $1.93
-- **24h Change:** -0.90%
-- **24h Volume:** $127,571,230
+- **Price:** $1.94
+- **24h Change:** +1.11%
+- **24h Volume:** $112,752,869
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $2,942.62
-- **24h Change:** -0.53%
-- **24h Volume:** $31,009,211,888
+- **Price:** $2,943.26
+- **24h Change:** +1.56%
+- **24h Volume:** $30,106,797,795
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $12.24
-- **24h Change:** -0.36%
-- **24h Volume:** $473,017,763
+- **Price:** $12.29
+- **24h Change:** +2.00%
+- **24h Volume:** $457,477,141
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $127.39
-- **24h Change:** -1.07%
-- **24h Volume:** $4,866,599,128
+- **Price:** $127.75
+- **24h Change:** +1.32%
+- **24h Volume:** $4,690,300,295
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $1.91
-- **24h Change:** -1.15%
-- **24h Volume:** $3,524,630,420
+- **Price:** $1.92
+- **24h Change:** +1.76%
+- **24h Volume:** $3,448,544,894
 
