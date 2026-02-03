@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-02-03T20:30:19.706087Z
+**Last Updated:** 2026-02-03T21:17:00.787464Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
 - **Price:** $0.30
-- **24h Change:** -1.77%
-- **24h Volume:** $670,000,165
+- **24h Change:** +0.46%
+- **24h Volume:** $678,010,915
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $10.00
-- **24h Change:** -1.25%
-- **24h Volume:** $392,773,707
+- **Price:** $10.22
+- **24h Change:** +0.69%
+- **24h Volume:** $439,699,383
 
 ### 🔴 BNB/USDC
 
-- **Price:** $762.33
-- **24h Change:** -1.12%
-- **24h Volume:** $1,776,015,283
+- **Price:** $771.39
+- **24h Change:** -0.18%
+- **24h Volume:** $1,877,563,357
 
 ### 🔴 BTC/USDC
 
-- **Price:** $75,601.00
-- **24h Change:** -3.38%
-- **24h Volume:** $69,427,952,751
+- **Price:** $76,654.00
+- **24h Change:** -2.10%
+- **24h Volume:** $71,311,061,966
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.11
-- **24h Change:** -0.63%
-- **24h Volume:** $1,844,741,257
+- **24h Change:** +1.00%
+- **24h Volume:** $1,953,542,848
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $1.51
-- **24h Change:** -2.06%
-- **24h Volume:** $194,185,665
+- **Price:** $1.56
+- **24h Change:** +0.59%
+- **24h Volume:** $211,273,627
 
 ### 🔴 ETH/USDC
 
-- **Price:** $2,245.09
-- **24h Change:** -3.55%
-- **24h Volume:** $40,075,859,410
+- **Price:** $2,315.66
+- **24h Change:** -0.79%
+- **24h Volume:** $44,608,060,173
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $9.55
-- **24h Change:** -2.37%
-- **24h Volume:** $583,810,214
+- **Price:** $9.84
+- **24h Change:** +0.54%
+- **24h Volume:** $639,633,202
 
 ### 🔴 SOL/USDC
 
-- **Price:** $99.50
-- **24h Change:** -4.04%
-- **24h Volume:** $5,405,242,671
+- **Price:** $101.26
+- **24h Change:** -3.11%
+- **24h Volume:** $5,779,656,013
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $1.59
-- **24h Change:** -2.45%
-- **24h Volume:** $3,608,687,069
+- **Price:** $1.62
+- **24h Change:** +0.30%
+- **24h Volume:** $3,883,512,100
 
