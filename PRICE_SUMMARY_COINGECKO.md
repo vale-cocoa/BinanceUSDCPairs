@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-02-03T21:17:00.787464Z
+**Last Updated:** 2026-02-03T21:55:33.264386Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
 - **Price:** $0.30
-- **24h Change:** +0.46%
-- **24h Volume:** $678,010,915
+- **24h Change:** -1.33%
+- **24h Volume:** $701,992,528
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $10.22
-- **24h Change:** +0.69%
-- **24h Volume:** $439,699,383
+- **Price:** $10.10
+- **24h Change:** -0.51%
+- **24h Volume:** $445,252,501
 
 ### 🔴 BNB/USDC
 
-- **Price:** $771.39
-- **24h Change:** -0.18%
-- **24h Volume:** $1,877,563,357
+- **Price:** $763.85
+- **24h Change:** -1.18%
+- **24h Volume:** $1,916,496,316
 
 ### 🔴 BTC/USDC
 
-- **Price:** $76,654.00
-- **24h Change:** -2.10%
-- **24h Volume:** $71,311,061,966
+- **Price:** $76,130.00
+- **24h Change:** -2.95%
+- **24h Volume:** $72,084,216,799
 
-### 🟢 DOGE/USDC
+### 🔴 DOGE/USDC
 
 - **Price:** $0.11
-- **24h Change:** +1.00%
-- **24h Volume:** $1,953,542,848
+- **24h Change:** -0.52%
+- **24h Volume:** $1,982,028,273
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
-- **Price:** $1.56
-- **24h Change:** +0.59%
-- **24h Volume:** $211,273,627
+- **Price:** $1.53
+- **24h Change:** -1.42%
+- **24h Volume:** $212,271,186
 
 ### 🔴 ETH/USDC
 
-- **Price:** $2,315.66
-- **24h Change:** -0.79%
-- **24h Volume:** $44,608,060,173
+- **Price:** $2,281.65
+- **24h Change:** -2.53%
+- **24h Volume:** $46,175,824,279
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $9.84
-- **24h Change:** +0.54%
-- **24h Volume:** $639,633,202
+- **Price:** $9.68
+- **24h Change:** -1.21%
+- **24h Volume:** $642,628,664
 
 ### 🔴 SOL/USDC
 
-- **Price:** $101.26
-- **24h Change:** -3.11%
-- **24h Volume:** $5,779,656,013
+- **Price:** $100.25
+- **24h Change:** -4.30%
+- **24h Volume:** $5,861,353,545
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
-- **Price:** $1.62
-- **24h Change:** +0.30%
-- **24h Volume:** $3,883,512,100
+- **Price:** $1.60
+- **24h Change:** -1.15%
+- **24h Volume:** $3,910,111,652
 
