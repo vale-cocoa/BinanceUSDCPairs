@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-03-11T14:30:23.809577Z
+**Last Updated:** 2026-03-11T15:29:39.996551Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
 - **Price:** $0.26
-- **24h Change:** +0.42%
-- **24h Volume:** $637,419,853
+- **24h Change:** -2.73%
+- **24h Volume:** $590,693,826
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $9.70
-- **24h Change:** +3.31%
-- **24h Volume:** $384,967,293
+- **Price:** $9.61
+- **24h Change:** -0.58%
+- **24h Volume:** $339,786,504
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $647.87
-- **24h Change:** +0.93%
-- **24h Volume:** $964,737,340
+- **Price:** $647.03
+- **24h Change:** -0.27%
+- **24h Volume:** $947,265,922
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $70,499.00
-- **24h Change:** +0.93%
-- **24h Volume:** $51,852,833,926
+- **Price:** $70,344.00
+- **24h Change:** -1.38%
+- **24h Volume:** $50,047,488,574
 
 ### 🔴 DOGE/USDC
 
 - **Price:** $0.09
-- **24h Change:** -2.17%
-- **24h Volume:** $2,008,903,253
+- **24h Change:** -5.70%
+- **24h Volume:** $1,785,299,442
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
-- **Price:** $1.54
-- **24h Change:** +1.84%
-- **24h Volume:** $136,887,271
+- **Price:** $1.52
+- **24h Change:** -0.36%
+- **24h Volume:** $131,233,271
 
-### 🟢 ETH/USDC
+### 🔴 ETH/USDC
 
-- **Price:** $2,058.52
-- **24h Change:** +1.76%
-- **24h Volume:** $21,407,359,486
+- **Price:** $2,053.88
+- **24h Change:** -0.79%
+- **24h Volume:** $20,045,797,802
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $9.08
-- **24h Change:** +1.63%
-- **24h Volume:** $351,387,173
+- **Price:** $9.02
+- **24h Change:** -0.95%
+- **24h Volume:** $342,159,214
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $86.33
-- **24h Change:** +0.94%
-- **24h Volume:** $4,340,274,572
+- **Price:** $85.85
+- **24h Change:** -2.12%
+- **24h Volume:** $4,101,876,683
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
 - **Price:** $1.39
-- **24h Change:** +0.14%
-- **24h Volume:** $3,095,387,517
+- **24h Change:** -2.53%
+- **24h Volume:** $2,572,966,274
 
