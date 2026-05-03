@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-05-03T21:59:17.067097Z
+**Last Updated:** 2026-05-03T22:51:55.196168Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
 - **Price:** $0.25
-- **24h Change:** -0.87%
-- **24h Volume:** $230,002,425
+- **24h Change:** +0.33%
+- **24h Volume:** $239,532,663
 
 ### 🔴 AVAX/USDC
 
-- **Price:** $9.07
-- **24h Change:** -1.57%
-- **24h Volume:** $155,742,060
+- **Price:** $9.18
+- **24h Change:** -0.21%
+- **24h Volume:** $158,742,339
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $618.67
-- **24h Change:** -0.17%
-- **24h Volume:** $657,103,987
+- **Price:** $621.29
+- **24h Change:** +0.35%
+- **24h Volume:** $692,750,990
 
 ### 🟢 BTC/USDC
 
-- **Price:** $78,775.00
-- **24h Change:** +0.05%
-- **24h Volume:** $19,247,627,634
+- **Price:** $79,283.00
+- **24h Change:** +0.61%
+- **24h Volume:** $21,069,647,777
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.11
-- **24h Change:** -0.69%
-- **24h Volume:** $922,819,444
+- **24h Change:** +0.50%
+- **24h Volume:** $951,866,742
 
 ### 🔴 DOT/USDC
 
-- **Price:** $1.21
-- **24h Change:** -2.04%
-- **24h Volume:** $116,514,430
+- **Price:** $1.22
+- **24h Change:** -0.56%
+- **24h Volume:** $115,999,579
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $2,322.43
-- **24h Change:** -0.14%
-- **24h Volume:** $8,911,265,697
+- **Price:** $2,346.89
+- **24h Change:** +0.88%
+- **24h Volume:** $9,857,129,733
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $9.13
-- **24h Change:** -0.87%
-- **24h Volume:** $173,499,637
+- **Price:** $9.21
+- **24h Change:** +0.04%
+- **24h Volume:** $183,149,228
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $84.06
-- **24h Change:** -0.65%
-- **24h Volume:** $1,679,783,297
+- **Price:** $84.72
+- **24h Change:** +0.36%
+- **24h Volume:** $1,775,165,739
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $1.39
-- **24h Change:** -0.21%
-- **24h Volume:** $1,092,935,444
+- **Price:** $1.40
+- **24h Change:** +0.21%
+- **24h Volume:** $1,138,253,409
 
