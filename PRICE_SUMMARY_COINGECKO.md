@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-05-29T11:47:39.230714Z
+**Last Updated:** 2026-05-29T14:51:43.330617Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
 - **Price:** $0.23
-- **24h Change:** +1.67%
-- **24h Volume:** $301,543,818
+- **24h Change:** -0.68%
+- **24h Volume:** $272,786,474
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $8.87
-- **24h Change:** +0.83%
-- **24h Volume:** $145,570,877
+- **Price:** $8.67
+- **24h Change:** -1.97%
+- **24h Volume:** $138,175,224
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $636.45
-- **24h Change:** +0.79%
-- **24h Volume:** $597,989,832
+- **Price:** $632.42
+- **24h Change:** -0.15%
+- **24h Volume:** $606,053,323
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $73,408.00
-- **24h Change:** +0.10%
-- **24h Volume:** $31,457,448,971
+- **Price:** $72,710.00
+- **24h Change:** -0.19%
+- **24h Volume:** $30,976,453,339
 
 ### 🟢 DOGE/USDC
 
 - **Price:** $0.10
-- **24h Change:** +1.15%
-- **24h Volume:** $651,953,565
+- **24h Change:** +0.07%
+- **24h Volume:** $591,387,541
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
-- **Price:** $1.20
-- **24h Change:** +1.30%
-- **24h Volume:** $134,208,151
+- **Price:** $1.18
+- **24h Change:** -0.74%
+- **24h Volume:** $131,754,979
 
 ### 🟢 ETH/USDC
 
-- **Price:** $2,005.47
-- **24h Change:** +0.97%
-- **24h Volume:** $13,097,446,602
+- **Price:** $1,990.16
+- **24h Change:** +0.17%
+- **24h Volume:** $12,459,057,720
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $8.94
-- **24h Change:** +0.95%
-- **24h Volume:** $241,350,269
+- **Price:** $8.82
+- **24h Change:** -0.74%
+- **24h Volume:** $219,706,434
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $81.75
-- **24h Change:** +1.38%
-- **24h Volume:** $2,100,929,147
+- **Price:** $80.78
+- **24h Change:** -0.05%
+- **24h Volume:** $2,060,346,692
 
 ### 🟢 XRP/USDC
 
-- **Price:** $1.31
-- **24h Change:** +1.91%
-- **24h Volume:** $1,817,777,561
+- **Price:** $1.30
+- **24h Change:** +0.05%
+- **24h Volume:** $1,826,684,868
 
