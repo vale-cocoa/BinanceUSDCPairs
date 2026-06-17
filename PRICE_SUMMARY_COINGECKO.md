@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-06-17T16:55:42.094087Z
+**Last Updated:** 2026-06-17T19:22:49.360433Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
 - **Price:** $0.17
-- **24h Change:** -1.25%
-- **24h Volume:** $484,325,288
+- **24h Change:** -2.80%
+- **24h Volume:** $528,248,928
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $6.93
-- **24h Change:** +2.37%
-- **24h Volume:** $200,614,817
+- **Price:** $6.83
+- **24h Change:** -0.25%
+- **24h Volume:** $218,040,496
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $605.22
-- **24h Change:** +0.21%
-- **24h Volume:** $864,646,351
+- **Price:** $603.55
+- **24h Change:** -0.56%
+- **24h Volume:** $894,815,586
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $65,845.00
-- **24h Change:** +0.18%
-- **24h Volume:** $26,805,300,967
+- **Price:** $64,784.00
+- **24h Change:** -1.30%
+- **24h Volume:** $29,675,819,059
 
-### 🟢 DOGE/USDC
+### 🔴 DOGE/USDC
 
 - **Price:** $0.09
-- **24h Change:** +0.81%
-- **24h Volume:** $510,399,813
+- **24h Change:** -1.20%
+- **24h Volume:** $564,893,268
 
 ### 🟢 DOT/USDC
 
-- **Price:** $1.03
-- **24h Change:** +3.12%
-- **24h Volume:** $95,013,326
+- **Price:** $1.02
+- **24h Change:** +0.82%
+- **24h Volume:** $102,646,559
 
 ### 🔴 ETH/USDC
 
-- **Price:** $1,770.17
-- **24h Change:** -0.38%
-- **24h Volume:** $12,133,932,034
+- **Price:** $1,756.06
+- **24h Change:** -2.15%
+- **24h Volume:** $13,436,823,360
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $8.28
-- **24h Change:** +1.38%
-- **24h Volume:** $191,282,684
+- **Price:** $8.16
+- **24h Change:** -1.16%
+- **24h Volume:** $212,004,387
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $73.85
-- **24h Change:** +1.08%
-- **24h Volume:** $2,194,872,852
+- **Price:** $72.72
+- **24h Change:** -1.43%
+- **24h Volume:** $2,494,641,480
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
-- **Price:** $1.21
-- **24h Change:** +0.19%
-- **24h Volume:** $1,693,717,211
+- **Price:** $1.19
+- **24h Change:** -2.09%
+- **24h Volume:** $1,923,800,853
 
