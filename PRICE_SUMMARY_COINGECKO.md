@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-06-25T15:58:39.978941Z
+**Last Updated:** 2026-06-25T18:13:57.014968Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
 - **Price:** $0.14
-- **24h Change:** -0.66%
-- **24h Volume:** $568,438,772
+- **24h Change:** +2.14%
+- **24h Volume:** $516,257,555
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $6.11
-- **24h Change:** -1.92%
-- **24h Volume:** $314,699,914
+- **Price:** $6.22
+- **24h Change:** +2.74%
+- **24h Volume:** $301,135,385
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $553.25
-- **24h Change:** -1.32%
-- **24h Volume:** $1,124,020,369
+- **Price:** $557.66
+- **24h Change:** +1.27%
+- **24h Volume:** $979,843,733
 
 ### 🔴 BTC/USDC
 
-- **Price:** $59,446.00
-- **24h Change:** -1.26%
-- **24h Volume:** $50,316,576,740
+- **Price:** $59,414.00
+- **24h Change:** -0.07%
+- **24h Volume:** $44,409,517,388
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.07
-- **24h Change:** -2.18%
-- **24h Volume:** $957,401,035
+- **24h Change:** +1.32%
+- **24h Volume:** $826,464,989
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $0.85
-- **24h Change:** -2.63%
-- **24h Volume:** $103,075,814
+- **Price:** $0.86
+- **24h Change:** +1.24%
+- **24h Volume:** $92,356,759
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $1,565.99
-- **24h Change:** -3.11%
-- **24h Volume:** $18,664,406,764
+- **Price:** $1,566.70
+- **24h Change:** +0.12%
+- **24h Volume:** $16,770,541,304
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $7.20
-- **24h Change:** -2.46%
-- **24h Volume:** $327,438,495
+- **Price:** $7.24
+- **24h Change:** +1.08%
+- **24h Volume:** $283,282,666
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $66.00
-- **24h Change:** -1.92%
-- **24h Volume:** $4,007,785,577
+- **Price:** $66.41
+- **24h Change:** +2.08%
+- **24h Volume:** $3,587,535,787
 
 ### 🔴 XRP/USDC
 
-- **Price:** $1.03
-- **24h Change:** -2.41%
-- **24h Volume:** $2,464,845,003
+- **Price:** $1.04
+- **24h Change:** -1.44%
+- **24h Volume:** $2,342,459,305
 
