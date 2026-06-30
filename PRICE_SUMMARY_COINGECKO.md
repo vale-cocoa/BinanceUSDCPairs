@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-06-29T23:58:23.322786Z
+**Last Updated:** 2026-06-30T03:58:05.446811Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
-- **Price:** $0.15
-- **24h Change:** +1.29%
-- **24h Volume:** $298,672,755
+- **Price:** $0.14
+- **24h Change:** -0.37%
+- **24h Volume:** $290,349,786
 
 ### 🟢 AVAX/USDC
 
-- **Price:** $6.66
-- **24h Change:** +3.41%
-- **24h Volume:** $278,849,971
+- **Price:** $6.62
+- **24h Change:** +0.43%
+- **24h Volume:** $257,798,168
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $558.62
-- **24h Change:** +1.50%
-- **24h Volume:** $732,931,500
+- **Price:** $553.48
+- **24h Change:** -0.07%
+- **24h Volume:** $706,904,754
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $60,142.00
-- **24h Change:** +1.05%
-- **24h Volume:** $30,460,226,746
+- **Price:** $59,531.00
+- **24h Change:** -0.66%
+- **24h Volume:** $29,848,354,722
 
-### 🟢 DOGE/USDC
+### 🔴 DOGE/USDC
 
 - **Price:** $0.07
-- **24h Change:** +0.22%
-- **24h Volume:** $624,206,855
+- **24h Change:** -1.02%
+- **24h Volume:** $597,154,065
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
 - **Price:** $0.82
-- **24h Change:** +1.64%
-- **24h Volume:** $88,623,126
+- **24h Change:** -0.95%
+- **24h Volume:** $85,401,502
 
 ### 🟢 ETH/USDC
 
-- **Price:** $1,610.06
-- **24h Change:** +2.51%
-- **24h Volume:** $11,139,999,259
+- **Price:** $1,585.37
+- **24h Change:** +0.25%
+- **24h Volume:** $11,134,570,907
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $7.37
-- **24h Change:** +1.43%
-- **24h Volume:** $236,913,116
+- **Price:** $7.28
+- **24h Change:** -0.43%
+- **24h Volume:** $254,570,666
 
 ### 🟢 SOL/USDC
 
-- **Price:** $74.96
-- **24h Change:** +5.16%
-- **24h Volume:** $4,092,828,198
+- **Price:** $74.14
+- **24h Change:** +2.16%
+- **24h Volume:** $3,853,564,440
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
-- **Price:** $1.06
-- **24h Change:** +0.97%
-- **24h Volume:** $1,860,218,928
+- **Price:** $1.04
+- **24h Change:** -0.39%
+- **24h Volume:** $1,713,332,159
 
