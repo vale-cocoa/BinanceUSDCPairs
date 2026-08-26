@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-08-26T20:29:03.985960Z
+**Last Updated:** 2026-08-26T23:59:09.559904Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
-- **Price:** $0.20
-- **24h Change:** -4.13%
-- **24h Volume:** $383,917,375
+- **Price:** $0.21
+- **24h Change:** +1.72%
+- **24h Volume:** $381,059,881
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $7.23
-- **24h Change:** -2.78%
-- **24h Volume:** $173,052,112
+- **Price:** $7.45
+- **24h Change:** +1.59%
+- **24h Volume:** $165,491,115
 
 ### 🟢 BNB/USDC
 
-- **Price:** $698.93
-- **24h Change:** +0.31%
-- **24h Volume:** $876,392,061
+- **Price:** $707.87
+- **24h Change:** +1.98%
+- **24h Volume:** $904,999,349
 
-### 🔴 BTC/USDC
+### 🟢 BTC/USDC
 
-- **Price:** $78,350.00
-- **24h Change:** -0.58%
-- **24h Volume:** $29,113,415,881
+- **Price:** $79,097.00
+- **24h Change:** +0.69%
+- **24h Volume:** $28,465,778,808
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
-- **Price:** $0.08
-- **24h Change:** -3.38%
-- **24h Volume:** $657,209,447
+- **Price:** $0.09
+- **24h Change:** +2.44%
+- **24h Volume:** $657,383,251
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $0.84
-- **24h Change:** -3.83%
-- **24h Volume:** $102,279,451
+- **Price:** $0.88
+- **24h Change:** +2.89%
+- **24h Volume:** $105,639,712
 
 ### 🟢 ETH/USDC
 
-- **Price:** $2,466.67
-- **24h Change:** +0.36%
-- **24h Volume:** $11,786,153,295
+- **Price:** $2,507.16
+- **24h Change:** +2.67%
+- **24h Volume:** $12,228,262,056
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $11.26
-- **24h Change:** -1.61%
-- **24h Volume:** $352,777,529
+- **Price:** $11.62
+- **24h Change:** +2.93%
+- **24h Volume:** $352,187,742
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $96.63
-- **24h Change:** -1.20%
-- **24h Volume:** $3,006,284,418
+- **Price:** $102.29
+- **24h Change:** +5.92%
+- **24h Volume:** $3,556,721,301
 
 ### 🔴 XRP/USDC
 
-- **Price:** $1.37
-- **24h Change:** -5.94%
-- **24h Volume:** $3,992,115,146
+- **Price:** $1.42
+- **24h Change:** -0.73%
+- **24h Volume:** $3,950,106,386
 
