@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-08-31T20:57:59.027717Z
+**Last Updated:** 2026-09-01T00:26:02.095787Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
 - **Price:** $0.20
-- **24h Change:** -1.39%
-- **24h Volume:** $390,281,801
+- **24h Change:** +2.98%
+- **24h Volume:** $292,858,607
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $7.22
-- **24h Change:** -1.97%
-- **24h Volume:** $194,893,481
+- **Price:** $7.27
+- **24h Change:** +1.47%
+- **24h Volume:** $150,606,385
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $691.12
-- **24h Change:** -0.96%
-- **24h Volume:** $794,673,130
+- **Price:** $693.30
+- **24h Change:** +0.93%
+- **24h Volume:** $673,527,213
 
 ### 🟢 BTC/USDC
 
-- **Price:** $78,896.00
-- **24h Change:** +0.31%
-- **24h Volume:** $32,207,241,511
+- **Price:** $78,813.00
+- **24h Change:** +1.11%
+- **24h Volume:** $29,479,487,933
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.08
-- **24h Change:** -2.27%
-- **24h Volume:** $686,678,519
+- **24h Change:** +0.89%
+- **24h Volume:** $494,801,478
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $0.83
-- **24h Change:** -2.10%
-- **24h Volume:** $124,497,027
+- **Price:** $0.84
+- **24h Change:** +2.40%
+- **24h Volume:** $106,765,823
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $2,473.93
-- **24h Change:** -0.77%
-- **24h Volume:** $14,950,884,825
+- **Price:** $2,475.38
+- **24h Change:** +1.85%
+- **24h Volume:** $12,010,125,338
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $11.40
-- **24h Change:** -1.11%
-- **24h Volume:** $394,833,228
+- **Price:** $11.36
+- **24h Change:** +1.44%
+- **24h Volume:** $384,545,072
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $103.78
-- **24h Change:** -1.11%
-- **24h Volume:** $3,734,954,297
+- **Price:** $103.40
+- **24h Change:** +1.10%
+- **24h Volume:** $3,173,724,574
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
 - **Price:** $1.39
-- **24h Change:** -0.64%
-- **24h Volume:** $2,334,409,966
+- **24h Change:** +1.65%
+- **24h Volume:** $1,935,890,703
 
