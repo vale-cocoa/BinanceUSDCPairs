@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-09-16T19:25:40.407887Z
+**Last Updated:** 2026-09-16T22:14:43.118111Z
 
 **Source:** CoinGecko API
 
 ### 🔴 ADA/USDC
 
 - **Price:** $0.19
-- **24h Change:** -3.30%
-- **24h Volume:** $431,138,935
+- **24h Change:** -0.47%
+- **24h Volume:** $418,344,095
 
-### 🔴 AVAX/USDC
+### 🟢 AVAX/USDC
 
-- **Price:** $7.27
-- **24h Change:** -1.15%
-- **24h Volume:** $248,550,141
+- **Price:** $7.35
+- **24h Change:** +1.65%
+- **24h Volume:** $243,172,297
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $714.47
-- **24h Change:** -0.89%
-- **24h Volume:** $930,878,855
+- **Price:** $718.56
+- **24h Change:** +1.21%
+- **24h Volume:** $929,751,053
 
-### 🔴 BTC/USDC
+### 🟢 BTC/USDC
 
-- **Price:** $75,457.00
-- **24h Change:** -0.80%
-- **24h Volume:** $31,607,523,569
+- **Price:** $75,765.00
+- **24h Change:** +0.56%
+- **24h Volume:** $31,025,554,827
 
-### 🔴 DOGE/USDC
+### 🟢 DOGE/USDC
 
 - **Price:** $0.08
-- **24h Change:** -1.81%
-- **24h Volume:** $705,053,212
+- **24h Change:** +0.87%
+- **24h Volume:** $718,323,791
 
 ### 🟢 DOT/USDC
 
-- **Price:** $0.97
-- **24h Change:** +1.60%
-- **24h Volume:** $176,777,021
+- **Price:** $1.00
+- **24h Change:** +6.37%
+- **24h Volume:** $201,436,637
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $2,390.16
-- **24h Change:** -0.73%
-- **24h Volume:** $16,071,121,421
+- **Price:** $2,394.66
+- **24h Change:** +0.32%
+- **24h Volume:** $15,773,529,750
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $10.83
-- **24h Change:** -2.55%
-- **24h Volume:** $451,142,361
+- **Price:** $10.89
+- **24h Change:** +0.34%
+- **24h Volume:** $443,816,819
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $97.42
-- **24h Change:** -0.68%
-- **24h Volume:** $3,489,031,697
+- **Price:** $97.87
+- **24h Change:** +1.18%
+- **24h Volume:** $3,414,135,539
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $1.28
-- **24h Change:** -1.75%
-- **24h Volume:** $4,409,128,139
+- **Price:** $1.29
+- **24h Change:** +0.52%
+- **24h Volume:** $3,905,746,156
 
