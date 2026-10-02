@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-10-02T13:50:15.357508Z
+**Last Updated:** 2026-10-02T18:54:14.115487Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
-- **Price:** $0.26
-- **24h Change:** +3.74%
-- **24h Volume:** $597,641,750
+- **Price:** $0.24
+- **24h Change:** -3.82%
+- **24h Volume:** $611,844,508
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $11.14
-- **24h Change:** +1.60%
-- **24h Volume:** $492,406,192
+- **Price:** $10.52
+- **24h Change:** -3.73%
+- **24h Volume:** $471,859,835
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $781.77
-- **24h Change:** +1.65%
-- **24h Volume:** $900,382,546
+- **Price:** $762.90
+- **24h Change:** -0.88%
+- **24h Volume:** $907,749,112
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $86,808.00
-- **24h Change:** +3.69%
-- **24h Volume:** $42,221,442,365
+- **Price:** $84,100.00
+- **24h Change:** -0.72%
+- **24h Volume:** $43,693,157,747
 
-### 🟢 DOGE/USDC
+### 🔴 DOGE/USDC
 
-- **Price:** $0.10
-- **24h Change:** +2.79%
-- **24h Volume:** $946,647,305
+- **Price:** $0.09
+- **24h Change:** -3.92%
+- **24h Volume:** $1,021,933,637
 
-### 🟢 DOT/USDC
+### 🔴 DOT/USDC
 
-- **Price:** $1.23
-- **24h Change:** +2.65%
-- **24h Volume:** $176,984,716
+- **Price:** $1.15
+- **24h Change:** -2.69%
+- **24h Volume:** $161,448,154
 
-### 🟢 ETH/USDC
+### 🔴 ETH/USDC
 
-- **Price:** $2,757.03
-- **24h Change:** +2.37%
-- **24h Volume:** $16,583,249,076
+- **Price:** $2,658.82
+- **24h Change:** -1.47%
+- **24h Volume:** $18,156,980,410
 
-### 🟢 LINK/USDC
+### 🔴 LINK/USDC
 
-- **Price:** $14.40
-- **24h Change:** +0.23%
-- **24h Volume:** $519,036,791
+- **Price:** $13.59
+- **24h Change:** -5.35%
+- **24h Volume:** $557,769,827
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $122.85
-- **24h Change:** +4.25%
-- **24h Volume:** $4,586,187,751
+- **Price:** $117.86
+- **24h Change:** -0.32%
+- **24h Volume:** $4,638,116,784
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
-- **Price:** $1.54
-- **24h Change:** +3.16%
-- **24h Volume:** $3,163,691,775
+- **Price:** $1.46
+- **24h Change:** -2.65%
+- **24h Volume:** $3,316,667,851
 
