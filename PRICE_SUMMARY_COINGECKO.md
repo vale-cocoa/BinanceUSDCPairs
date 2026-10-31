@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-10-31T00:57:55.259547Z
+**Last Updated:** 2026-10-31T06:44:31.072507Z
 
 **Source:** CoinGecko API
 
-### 🟢 ADA/USDC
+### 🔴 ADA/USDC
 
-- **Price:** $0.20
-- **24h Change:** +5.19%
-- **24h Volume:** $263,954,590
+- **Price:** $0.19
+- **24h Change:** -0.33%
+- **24h Volume:** $218,222,322
 
-### 🟢 AVAX/USDC
+### 🔴 AVAX/USDC
 
-- **Price:** $8.61
-- **24h Change:** +5.03%
-- **24h Volume:** $295,305,103
+- **Price:** $8.50
+- **24h Change:** -1.28%
+- **24h Volume:** $283,337,510
 
-### 🟢 BNB/USDC
+### 🔴 BNB/USDC
 
-- **Price:** $708.41
-- **24h Change:** +2.16%
-- **24h Volume:** $1,685,995,026
+- **Price:** $702.56
+- **24h Change:** -1.62%
+- **24h Volume:** $1,212,016,689
 
-### 🟢 BTC/USDC
+### 🔴 BTC/USDC
 
-- **Price:** $77,402.00
-- **24h Change:** +0.36%
-- **24h Volume:** $201,653,273,211
+- **Price:** $77,204.00
+- **24h Change:** -1.59%
+- **24h Volume:** $201,543,179,039
 
-### 🟢 DOGE/USDC
+### 🔴 DOGE/USDC
 
 - **Price:** $0.08
-- **24h Change:** +2.79%
-- **24h Volume:** $687,355,310
+- **24h Change:** -1.22%
+- **24h Volume:** $547,804,584
 
 ### 🟢 DOT/USDC
 
-- **Price:** $0.98
-- **24h Change:** +8.97%
-- **24h Volume:** $96,934,985
+- **Price:** $0.96
+- **24h Change:** +1.17%
+- **24h Volume:** $80,061,435
 
-### 🟢 ETH/USDC
+### 🔴 ETH/USDC
 
-- **Price:** $2,246.61
-- **24h Change:** +1.34%
-- **24h Volume:** $17,214,406,357
+- **Price:** $2,241.89
+- **24h Change:** -0.17%
+- **24h Volume:** $12,874,473,064
 
 ### 🟢 LINK/USDC
 
-- **Price:** $11.64
-- **24h Change:** +11.21%
-- **24h Volume:** $549,145,769
+- **Price:** $11.46
+- **24h Change:** +3.27%
+- **24h Volume:** $454,472,689
 
-### 🟢 SOL/USDC
+### 🔴 SOL/USDC
 
-- **Price:** $96.63
-- **24h Change:** +2.15%
-- **24h Volume:** $3,662,968,221
+- **Price:** $95.90
+- **24h Change:** -2.11%
+- **24h Volume:** $3,073,040,472
 
-### 🟢 XRP/USDC
+### 🔴 XRP/USDC
 
-- **Price:** $1.26
-- **24h Change:** +2.90%
-- **24h Volume:** $2,810,220,212
+- **Price:** $1.25
+- **24h Change:** -1.39%
+- **24h Volume:** $2,244,863,644
 
