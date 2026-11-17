@@ -1,66 +1,66 @@
 # Crypto Prices (CoinGecko)
 
-**Last Updated:** 2026-11-16T20:59:55.944528Z
+**Last Updated:** 2026-11-17T03:39:16.976153Z
 
 **Source:** CoinGecko API
 
-### 🔴 ADA/USDC
+### 🟢 ADA/USDC
 
 - **Price:** $0.15
-- **24h Change:** -0.84%
-- **24h Volume:** $218,905,092
+- **24h Change:** +0.82%
+- **24h Volume:** $215,628,388
 
 ### 🔴 AVAX/USDC
 
-- **Price:** $7.14
-- **24h Change:** -1.75%
-- **24h Volume:** $177,115,960
+- **Price:** $7.20
+- **24h Change:** -0.18%
+- **24h Volume:** $159,534,824
 
-### 🔴 BNB/USDC
+### 🟢 BNB/USDC
 
-- **Price:** $590.93
-- **24h Change:** -0.60%
-- **24h Volume:** $649,214,414
+- **Price:** $594.28
+- **24h Change:** +0.48%
+- **24h Volume:** $610,072,807
 
-### 🔴 BTC/USDC
+### 🟢 BTC/USDC
 
-- **Price:** $64,898.00
-- **24h Change:** -0.29%
-- **24h Volume:** $33,194,596,589
+- **Price:** $65,052.00
+- **24h Change:** +0.24%
+- **24h Volume:** $32,894,344,330
 
 ### 🟢 DOGE/USDC
 
 - **Price:** $0.06
-- **24h Change:** +0.62%
-- **24h Volume:** $511,325,437
+- **24h Change:** +0.85%
+- **24h Volume:** $456,586,191
 
-### 🔴 DOT/USDC
+### 🟢 DOT/USDC
 
-- **Price:** $0.73
-- **24h Change:** -1.12%
-- **24h Volume:** $60,130,257
+- **Price:** $0.74
+- **24h Change:** +2.40%
+- **24h Volume:** $51,168,876
 
-### 🔴 ETH/USDC
+### 🟢 ETH/USDC
 
-- **Price:** $1,816.52
-- **24h Change:** -0.46%
-- **24h Volume:** $11,675,045,558
+- **Price:** $1,832.96
+- **24h Change:** +0.89%
+- **24h Volume:** $11,261,178,538
 
-### 🔴 LINK/USDC
+### 🟢 LINK/USDC
 
-- **Price:** $9.12
-- **24h Change:** -1.27%
-- **24h Volume:** $203,263,118
+- **Price:** $9.21
+- **24h Change:** +0.36%
+- **24h Volume:** $198,800,663
 
-### 🔴 SOL/USDC
+### 🟢 SOL/USDC
 
-- **Price:** $71.34
-- **24h Change:** -0.72%
-- **24h Volume:** $2,622,541,621
+- **Price:** $72.67
+- **24h Change:** +1.18%
+- **24h Volume:** $2,703,566,498
 
-### 🔴 XRP/USDC
+### 🟢 XRP/USDC
 
-- **Price:** $0.95
-- **24h Change:** -0.76%
-- **24h Volume:** $1,723,974,760
+- **Price:** $0.97
+- **24h Change:** +0.69%
+- **24h Volume:** $1,664,570,711
 
